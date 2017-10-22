@@ -1,9 +1,9 @@
 # Bing
 必应每日壁纸与故事接口
 
-#现在你可以按照如下参数形式进行接口调用：
-api:https://api.lylares.com/bing/?w=&h=&d=
-
+#现在你可以按照如下参数形式进行接口调用：<br>
+api:https://api.lylares.com/bing/?w=1920&h=1080&d=0
+<br>
 <table>
 <thead>
 <tr>
@@ -35,8 +35,8 @@ api:https://api.lylares.com/bing/?w=&h=&d=
 </tbody>
 </table>
 可用分辨率如下：
-<blockquote><span class="pl-pds">'</span>1920x1080<span class="pl-pds">'</span>,
-<span class="pl-pds">'</span>1366x768<span class="pl-pds">'</span>,
+<blockquote><span class="pl-pds">'</span>1920x1080<span class="pl-pds">'</span>,<br>
+<span class="pl-pds">'</span>1366x768<span class="pl-pds">'</span>,</br>
 <span class="pl-pds">'</span>1280x768<span class="pl-pds">'</span>,
 <span class="pl-pds">'</span>1024x768<span class="pl-pds">'</span>,
 <span class="pl-pds">'</span>800x600<span class="pl-pds">'</span>,
