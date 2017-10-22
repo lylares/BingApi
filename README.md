@@ -2,6 +2,7 @@
 必应每日壁纸与故事接口
 
 #现在你可以按照如下参数形式进行接口调用：
+api:https://api.lylares.com/bing/?w=&h=&d=
 
 <table>
 <thead>
