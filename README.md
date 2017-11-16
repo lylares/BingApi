@@ -1,6 +1,6 @@
 # Bing
 必应每日壁纸与故事接口
-
+API:https://api.lylares.com/bing/
 #现在你可以按照如下参数形式进行接口调用：<br>
 api调用示例:<br>
 https://api.lylares.com/bing/?w=1920&h=1080&d=0
