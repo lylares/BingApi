@@ -2,9 +2,40 @@
 必应每日壁纸与故事接口
 # 更新 2017.11.16
 API:https://api.lylares.com/bing/
+<table>
+<thead>
+<tr>
+<th align="center">参数名</th>
+<th align="center">类型</th>
+<th align="center">是否必要</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">title</td>
+<td align="center"><code>string</code></td>
+<td align="center">否</td>
+<td>故事标题</td>
+</tr>
+<tr>
+<td align="center">image</td>
+<td align="center"><code>sting</code></td>
+<td align="center">否</td>
+<td>图片地址</td>
+</tr>
+<tr>
+<td align="center">story</td>
+<td align="center"><code>string</code></td>
+<td align="center">否</td>
+<td>故事内容</td>
+</tr>
+</tbody>
+</table>
 
 
-#现在你可以按照如下参数形式进行接口调用：<br>
+
+现在你可以按照如下参数形式进行接口调用：<br>
 api调用示例:<br>
 https://api.lylares.com/bing/?w=1920&h=1080&d=0
 <br>
